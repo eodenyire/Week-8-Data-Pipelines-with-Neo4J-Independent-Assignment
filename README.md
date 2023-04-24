@@ -77,3 +77,10 @@ With the availability of cloud services like Neo4j Aura and Google Cloud Compute
 The project serves as a useful reference for anyone looking to extract data from a graph database like Neo4j and load it into a relational database like PostgreSQL.
 By following the setup and running instructions, you can quickly and easily deploy the pipeline to your own environment.<br>
 
+The deliverables for this project are a detailed ReadMe file and a Python ETL with the necessary functions.
+
+Here is a link to a well documentated and commented modularized ETL with the complete code given as the last part of the notebook.
+Again, in this folder, I have uploaded the Complete Python ETL implementing this project.
+
+Google Colab Notebook link: https://colab.research.google.com/drive/1AkWX3rkyl5okx0HwAGqDkygfVgUANRok?usp=sharing
+
